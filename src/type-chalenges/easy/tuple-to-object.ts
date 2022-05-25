@@ -7,5 +7,5 @@ type TypleToObject<T extends readonly any[]> = {
 type cases = [
   //
   Expect<Equal<TypleToObject<["x", "y", 1]>, { x: "x"; y: "y"; 1: 1 }>>,
-  Expect<Equal<TypleToObject<["x", "y", {}]>, { x: "x"; y: "y" }>>
+  Expect<Equal<TypleToObject<["x", "y", {}]>, { x: "x"; y: "y" }>>,
 ];
