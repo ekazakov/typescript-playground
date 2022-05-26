@@ -21,3 +21,7 @@
 - [QueryString to Object](https://www.typescriptlang.org/play?#code/JYWwDg9gTgLgBAbzgZRlYA7A5gGjgVQ2AgzgF84AzKCEOAIhgGcBaGCCAGwCMBTTmPQDcAKBEBjEk3gBHAK68oATzgBeOAAMA9AAtavAPwBDVZQ4AybqoDuEaxtEiYSsLzgBFBcrVxnriJRw8opKjn5uyLySGAAmniEACkawPqjo2AB0yGCcwDAAPPHKePQG9AB8ANoAjAC6YS5uRUoAopy8ILwYzKlomFhZOXn5kdFxXkpJsCXmFQ2uHhNTRiBMPggicHCVzW0dXfCYiyF7nd1MlRhyIHxQtbUAXIibW9sA0rwqR2n9g7kFL1ex2UpwOOEBr3oqnoEKqAAZ7k8fplsv9ChNQd0StCqnVRFsyKIyDsMe0zsxLtdbvdHNFpHAINwAFZPQjEDAZACyiiwvHRiWSKyY5XWLyMT3oZgg9HBW24Ets1hlIkJIiAA)
 
 ## TODO Videos
+
+- [PiterJS #53: разработка тайпскриптовых типов через тестирование](https://www.youtube.com/watch?v=KSzZnw7upqM&t=388s)
+- [Подробно tsconfig и typescript-eslint - разбор правил проверки кода и того, когда они полезны](https://www.youtube.com/watch?v=4Vc-O20llVs&t=64s)
+- [Подробно про Utility Types в TypeScript](https://www.youtube.com/watch?v=i03l0N5g7nE)
