@@ -12,6 +12,7 @@
 - https://stackoverflow.com/questions/55127004/how-to-transform-union-type-to-tuple-type
 - https://stackoverflow.com/questions/50374908/transform-union-type-to-intersection-type?noredirect=1&lq=1
 - https://blog.beraliv.dev/2021-05-07-opaque-type-in-typescript
+- [Command pattern](https://fettblog.eu/slides/the-typescript-converging-point/)
 
 # TODO Challenges
 
