@@ -1,6 +1,10 @@
 # TODO Books
 
 - Effective TypeScript and [errata](https://www.oreilly.com/catalog/errata.csp?isbn=0636920261544)
+- https://effectivetypescript.com/2020/05/12/unionize-objectify/
+- https://effectivetypescript.com/2020/07/27/safe-queryselector/
+- https://effectivetypescript.com/2020/06/16/typed-identity-functions/
+- https://effectivetypescript.com/2021/11/11/optional-never/
 
 # TODO Articles
 
